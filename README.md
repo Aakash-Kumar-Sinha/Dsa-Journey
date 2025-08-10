@@ -9,7 +9,7 @@ I solve problems every day to learn and get better.
 In this repo, I upload my solutions for the DSA problems I solve daily.  
 My goal is to build strong basics and keep track of my learning.
 
-📌 **Note:** I will keep adding new solutions here as I learn more.
+> **Note:** I will keep adding new solutions here as I learn more.
 
 ## How to Help  
 This repo is mainly for my own practice. But if you see any better way to solve a problem or find any mistake, you can open a pull request or let me know by raising an issue. I am happy to learn and improve.
